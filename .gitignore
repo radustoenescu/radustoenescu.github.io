@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+>>>>>>> 213b7a01a5c265035808cc52cdd75a5285ae1991
