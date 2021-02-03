@@ -17,7 +17,7 @@ O să încerc să fac secţiunile cât mai independente, încât să puteţi să
 
 Găsesc clădirea [EOS Residence][2] pe un site de imobiliare, şi îmi atrage atenţia: poziţie foarte foarte bună, terasă mare şi de o formă utilizabilă eficient(nu foarte lungă şi lată de 1m, tip culoar cum sunt majoritatea), geamuri mari.
 
-Prima chestie pe care o observ şi mi se pare ciudată e că pe [site-ul ansamblului][2] preţul apartamentelor de 3 camere e acelaşi, indiferent de etaj, 175K; în timp ce anunţurile de pe [site-ul agenţiei imobiliare][3] diferenţiază preţul după etaj, cu fiecare etaj urcat se adaugă 1-2K. Aşadar ăsta de la 3 e mai scump cu 3K faţă de ce văzusem iniţial.
+Prima chestie pe care o observ şi mi se pare ciudată e că pe [site-ul ansamblului][2] preţul apartamentelor de 3 camere e acelaşi, indiferent de etaj, 175K; în timp ce anunţurile de pe [site-ul agenţiei imobiliare, Realpro][3], diferenţiază preţul după etaj, cu fiecare etaj urcat se adaugă 1-2K. Aşadar ăsta de la 3 e mai scump cu 3K faţă de ce văzusem iniţial.
 
 Merg la vizionare cu _doamna agent_(o să o numesc aşa ca să păstrez anonimitatea celor implicaţi, dar să o pot identifica şi referenţia cumva în textul ăsta). Văd apartamentul, pare ok, zic că suntem intersaţi, rămâne să fac o ofertă, ei urmând să răspundă şi să ajungem la un consens. La vizionare, aproape orice doream, era confirmat verbal de doamna agent că se poate.
 
@@ -179,6 +179,18 @@ Eu m-am simţit responsabil să nu las întâmplarea asta să se stingă degeaba
 
 > Se poate să primeşti promisiunea că ulterior achiziţiei apartamentului vei putea cumpăra loc de parcare, boxă, grădină, etc, ulterior să aflii ca nu mai sunt disponibile, sau că preţul s-a schimbat. Aşadar, dacă in mintea ta achiziţia apartamentului le include şi e condiţionată de celelalte, fă-o de-o dată.
 
+### Lecţia BONUS
+
+> _Cărămida nu e neapărat mai bună decât BCA-ul._
+
+> În primul rând, pentru fiecare tip de material, cărămidă, sau BCA, există diverse grosimi, producători. În al doilea rând, există mai multe criterii după care se evaluează un astfel de material, în majoritatea cazurilor astea sunt portanţă şi capacitatea de izolare termică.
+
+> În general, BCA-ul izolează termic mai bine decât cărămida porotherm la aceeaşi grosime, dar trebuie comparate tipurile particulare. Cu alte cuvinte, un BCA slab calitativ, poate izola mai prost decât o cărămidă de calitate, sau invers.
+
+> Discuţia despre portanţă în cazul blocurilor de apartamente e mai puţin relevantă. Majoritatea clădirilor de apartamente pe care le-am întâlnit eu sunt construite pe o structură de cadre şi grinzi de fier-beton, care asigură mare parte din necesarul de portanţă al structurii, din ce sunt făcuţi pereţii e mai puţin important. Cu alte cuvinte, blocul nu e susţinut de pereţii de BCA, sau cărămidă, deşi ei contribuie, evident, într-o măsură; ci de cadrele şi grinzile din beton armat.
+
+> Full disclamer: ce spun acolo e "scratching the surface", discuţia completă devine foarte tehnică, foarte rapid şi sunt foarte multe detalii care intră în discuţie: geografia şi proprietăţile geologice ale zone, arhitectura clădirii, clima, materialele folosite etc. Totodată, eu nu sunt inginer constructor şi nu vreau informaţia asta să substituie informaţiile primite de la un specialist.
+
 ## Lecţii
 
 [1.](#lecţia-1) Vorbele au valoare nulă. Angajamentele verbale trebuie reflectate în acte şi, ulterior acţiuni conforme.
@@ -196,6 +208,8 @@ Eu m-am simţit responsabil să nu las întâmplarea asta să se stingă degeaba
 [7.](#lecţia-7) Nu ceda bullying-ului şi presiunii agenţilor.
 
 [8.](#lecţia-8) Dacă vrei să iei apartamentul cu loc de parcare, boxă, etc, ia-le pe toate în acelaşi timp - prin acelaşi contract, sau contracte separate semnate în acelaşi moment.
+
+[BONUS](#lecţia-bonus) Cărămida nu e neapărat mai bună decât BCA-ul.
 
 [1]: https://realpro.ro/
 [2]: https://www.eosresidence.ro/
