@@ -171,6 +171,14 @@ Sunt multe apartamente, agenţii şi agenţi, cei cu care am lucrat eu de la [Re
 
 Eu m-am simţit responsabil să nu las întâmplarea asta să se stingă degeaba, poate va ajuta pe cineva într-o situaţie similară.
 
+## Update - Lecţia 8
+
+### Lecţia 8
+
+> _Dacă vrei să iei apartamentul cu loc de parcare, boxă, etc, ia-le pe toate în acelaşi timp - prin acelaşi contract, sau contracte separate semnate în acelaşi moment._
+
+> Se poate să primeşti promisiunea că ulterior achiziţiei apartamentului vei putea cumpăra loc de parcare, boxă, grădină, etc, ulterior să aflii ca nu mai sunt disponibile, sau că preţul s-a schimbat. Aşadar, dacă in mintea ta achiziţia apartamentului le include şi e condiţionată de celelalte, fă-o de-o dată.
+
 ## Lecţii
 
 [1.](#lecţia-1) Vorbele au valoare nulă. Angajamentele verbale trebuie reflectate în acte şi, ulterior acţiuni conforme.
@@ -186,6 +194,8 @@ Eu m-am simţit responsabil să nu las întâmplarea asta să se stingă degeaba
 [6.](#lecţia-6) Nu semna contracte de rezervare.
 
 [7.](#lecţia-7) Nu ceda bullying-ului şi presiunii agenţilor.
+
+[8.](#lecţia-8) Dacă vrei să iei apartamentul cu loc de parcare, boxă, etc, ia-le pe toate în acelaşi timp - prin acelaşi contract, sau contracte separate semnate în acelaşi moment.
 
 [1]: https://realpro.ro/
 [2]: https://www.eosresidence.ro/
