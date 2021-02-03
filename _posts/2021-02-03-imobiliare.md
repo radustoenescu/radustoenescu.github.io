@@ -7,11 +7,9 @@ title: RealPro, EOS Residence, şi imobiliare pentru începători
 
 În cele ce urmează o să vă povestesc o întâmplare de la ultima tentativă de achiziţie, la sfârşit o să încerc o generalizare a lecţiilor învăţate de mine, poate ajută pe cineva care se află într-o situaţie similară, urmând să închei printr-o scurtă parte mai puţin practică, ceva mai filozofică.
 
-O să încerc să fac secţiunile cât mai independente, încât să puteţi sări la orcare parte nestingheriţi.
+Învăţăturile trase de mine vor apărea cu italice în cadrul poveştii, urmând să le reiau ulterior şi să le grupez pentru o mai uşoară accesare.
 
-Învăţăturile trase de mine vor apărea cu italice în cadrul poveştii, urmând să le reiau în ulterior şi să le grupez pentru o mai uşoară accesare.
-
-Încă o precizare, înainte să încep e că întâmplarea ce urmează să o povestesc nu a fost plăcută pentru noi, eu voi încerca să fie cât se poate de obiectiv, încât să vă ghidez spre nişte concluzii false, dar vreau să fie clar că există şansa ca sentimentele să treacă în faţa raţiunii, să fiţi atenţi la asta.
+Încă o precizare, înainte să încep e că întâmplarea ce urmează să o povestesc nu a fost plăcută pentru noi. Eu voi încerca să fiu cât se poate de obiectiv, încât să nu vă ghidez spre nişte concluzii false, dar vreau să fie clar că există şansa ca sentimentele să treacă în faţa raţiunii, să fiţi atenţi la asta.
 
 ## [EOS Residence][2], [Realpro][1], [apartamentul de la 3][3]
 
@@ -68,7 +66,7 @@ Să fim conştienţi că nici ei nu pretind de la noi costuri extra dacă aparta
 
 Ei propun 3% marja. 3% din 97mp(80 utili + 17 terasa) la 1700/mp însemană 4947 euro, asta ca sa înţelegeţi despre ce numere discutăm.
 
-Zic fie, o acceptăm şi pe asta, oricum urma să mergem împreună cu arhitecta să măsurăm apartamentul pentru a putea începe proiectuld e amenajare, şi elucidam şi misterul suprafeţei. Aflam ce ţeapă urma să luăm, că pe plus sigur nu era (spoiler alert: nu a fost pe plus).
+Zic fie, o acceptăm şi pe asta, oricum urma să mergem împreună cu arhitecta să măsurăm apartamentul pentru a putea începe proiectul de amenajare, şi elucidam şi misterul suprafeţei. Aflam ce ţeapă urma să luăm, că pe plus sigur nu era (spoiler alert: nu a fost pe plus).
 
 Trimit buletinele şi cer varianta actualizată a draftului. Conform [lecţiei 1](#lecţia-1), voiam să văd preconstractul modificat, nu un mail, ăla are valoare minusculă în cazul unui litigiu.
 
@@ -98,7 +96,7 @@ Trimit buletinele şi cer varianta actualizată a draftului. Conform [lecţiei 1
 
 > Nu face asta! Pe de-o parte, şansele să apară un cumpărător care să-ţi ia apartamentul în acele câteva zile cât durează negocierea precontractului sunt mici. Pe de altă parte, o dată ce ai plătit 1-2K, vei fi mai dispus să accepţi compromisuri cu precontractul că rişti să pierzi banii dacă nu-l semnezi. Spune că vrei direct precontract, şi că accepţi riscul de a pierde apartamentul dacă apare cineva mai hotărât până semnezi tu precontractul. Nici agenţii nu sunt motivaţi să tragă tare cu eventualii cumpărători, din moment ce tu deja ţi-ai manifestat interesul şi aţi demarat formele legale, dacă tu cumperi, tot efortul lor cu ceilalţi e degeaba.
 
-Într-o joi, nu e importantă data, dar e importantă ziua, primim mail de la notar că asteapţa în continuare cărţile de identitate ale părţilor(doamna agent uitase să le ataşeze), şi că propune data de marţi(săptămâna următoare, peste 6 zile, din care 4 lucrătoare) pentru semnare, aşteptând confirmarea părţilor. Mailul era trimis nouă, cumpărătorii, vânzătorul şi agenţii imobiliari(domnul şi doamna).
+Într-o joi, nu e importantă data, dar e importantă ziua, primim mail de la notar că aşteaptă în continuare cărţile de identitate ale părţilor(doamna agent uitase să le ataşeze), şi că propune data de marţi(săptămâna următoare, peste 6 zile, din care 4 lucrătoare) pentru semnare, aşteptând confirmarea părţilor. Mailul era trimis nouă, cumpărătorii, vânzătorul şi agenţii imobiliari(domnul şi doamna).
 
 Primesc mail-ul şi nu răspund, gândid că o să confirm data când primesc precontractul şi apuc să îl studiez. _Cum pot să confirm că semnez ceva cândva, când nu ştiu ce semnez?!_
 
@@ -120,15 +118,15 @@ La un moment dat, după ce am aşteptat în zadar acele bugete, propunem cumpăr
 
 Primim răspuns că nu e acceptabil, şi că putem în continuare alege finisajele după bunul plac de la furnizorii lor şi dau link-uri la aceştia. Răspunul vine, însă, fără detalii despre bugetele pentru finisaje, pe baza cărora să putem comanda.
 
-Între timp, deadline-ul relaxat în care noi putem discuta cu arhitecta şi face oarece modificări dispare, ei vor să facă recepţia _repede_, tot ce putem schimba sunt ceramica şi parchetul, în rest nimic. Orice modificare(prize, lavoare, etc) se poate face după recepţie, pe banii noştri. Zicem fie şi la asta, dar întrebăm dacă ne pot oferi, contra cost, echipa de muncitor, măcar, ca să nu mai stăm să căutăm şi din ăştia. Aceleaşi răspunsuri vagi, "da, vedem, discutăm atunci...". În mintea mea era clar că nu.
+Între timp, deadline-ul relaxat în care noi putem discuta cu arhitecta şi face oarece modificări dispare, ei vor să facă recepţia _repede_, tot ce putem schimba sunt ceramica şi parchetul, în rest nimic. Orice modificare(prize, lavoare, etc) se poate face după recepţie, pe banii noştri. Zicem fie şi la asta, dar întrebăm dacă ne pot oferi, contra cost, echipa de muncitori, măcar, ca să nu mai stăm să căutăm şi din ăştia. Aceleaşi răspunsuri vagi, "da, vedem, discutăm atunci...". În mintea mea era clar că nu.
 
 Primim contractul final, *duminică seara*, pe la ora 21, cu o zi şi două nopţi înainte de semnare.
 
-Discuţia cu finisajele încă era deschisă, nu primisem informaţii despre bugete, sau procedura de cumpărare a finisajelor - mă duceam eu în magazin, le comandam, ei decontau parte din bani? le comandam prin intermediul lor?
+Discuţia cu finisajele încă era deschisă, nu primisem informaţii despre bugete, sau procedura de cumpărare a finisajelor - mă duceam eu în magazin, le comandam, ei decontau parte din bani? Le comandam prin intermediul lor?
 
 Reiterez că noi nu confirmasem că semnăm marţi, mai aveam de finalizat problema cu finisajele şi de studiat contractul. Răspund luni dimineaţă că începem să ne uităm pe contract, şi că aşteptăm bugetele alea o dată. Pentru mine era clar că nu o să semnăm a doua zi.
 
-Mă uit prin precontract, între ce cerusem noi, ce spunea că ne oferă domnul agent şi ce ajunsese în contract era distanţă mare: nu era un cuantum stabilit ca despăgubire pentru diferenţa de suprafaţă, deadline-ul semnării procesului verbal dispăruse, la fel şi contractele individuale. Am fost foarte lovit de asta, dacă nu investisem atât timp în căutari, vizionări, negocieri, mail-uri, şi dacă apartamentul nu avea nişte atuuri la care ţineam mult, m-aş fi retras atunci din deal. Încep să scriu ceva mail cerând clarificări despre ce s-a întâmplat cu draft-ul trimis de mine şi angajamentele din mail.
+Mă uit prin precontract, între ce cerusem noi, ce spunea că ne oferă domnul agent şi ce ajunsese în contract era distanţă mare: nu era un cuantum stabilit ca despăgubire pentru diferenţa de suprafaţă, deadline-ul semnării procesului verbal dispăruse, la fel şi contractele individuale. Am fost foarte lovit de asta. Dacă nu investisem atât timp în căutari, vizionări, negocieri, mail-uri, şi dacă apartamentul nu avea nişte atuuri la care ţineam mult, m-aş fi retras atunci din deal. Încep să scriu ceva mail cerând clarificări despre ce s-a întâmplat cu draft-ul trimis de mine şi angajamentele din mail.
 
 Vine a doua lovitură - răspunsul cu bugetele, în după amiaza de dinainte de semnare: *60 RON/mp* pentru ceramice. Ăsta e buget pentru finisaje premium? Cine îţi vinde ţie Porcelanosa cu 60 de lei/mp când preţul de showroom începe de pe la 200?
 
@@ -144,12 +142,14 @@ Vine răspunsul domnului agent, *luni la 23:40*, care işi schimbase tonul din a
 
 > _Nu ceda bullying-ului şi presiunii agenţilor._
 
-> Trucurile astea de samsar: sunt grăbiţi, sunt alţi cumpărători la coadă, ţi-am făcut nu ştiu ce reducere/concesie(ca reducerea noasţră de 3K şi amendamentele contractului); sunt parte din munca lor, vor să te gândeşti puţin, să semnezi repede.
+> Trucurile astea de samsar: sunt grăbiţi, sunt alţi cumpărători la coadă, ţi-am făcut nu ştiu ce reducere/concesie(ca reducerea noastră de 3K şi amendamentele contractului); sunt parte din munca lor, vor să te gândeşti puţin, să semnezi repede.
 
 *Nu mi-a venit să cred când am văzut maiul ăsta, înainte de culcare.*
 
+Gândesc:
+
 1. Noi nu am confirmat în niciun moment data aia. Am confirmat verbal, că, dacă finalizăm precontractul, semnăm. Contractul nu era finalizat.
-2. Nu e finalziat pentru că voi aţi tras de timp aiurea cu precontractul şi faceţi reclamă mincinoasă privind finisajele, fapt care ne-a determinat să cerem acea anexă, ca să prevenim ţepe ulterioare cu restul dotărilor.
+2. Nu e finalziat pentru că voi(domnul şi doamna) aţi tras de timp aiurea cu precontractul şi faceţi reclamă mincinoasă privind finisajele, fapt care ne-a determinat să cerem acea anexă, ca să prevenim ţepe ulterioare cu restul dotărilor.
 3. Dacă clientul tău e aşa mare boss, de nu are timp de vânzări de apartamente de 175K, să facă o împuternicire pentru vreun sclăvete de-al lui.
 4. Cine eşti tu să tragi de mine la miezul nopţii să semnăm a doua zi.
 
@@ -165,13 +165,13 @@ Ce cred că s-a întâmplat e că băieţii aveau nişte schelete prin dulap, ş
 
 Asta e povestea, deşi îmi pare rău de timpul şi banii(arhitect, avocat) investiţi, am încercat să rămân obiectiv, să pun faptele aici, să tragă fiecare ce concluzie doreşte. Pot suştine povestea cu mesaje, screenshot-uri şi altele, nu le adaug şi nu dau nume pentru a respecta anonimitatea celor implicaţi.
 
-Deşi poate părea ăşa, nu e intenţionat să fie "hate speech" la adresa vânzătorilor. E o întâmplare nefericită care reflectă foarte bine diversele capcane care pot apărea pe parcursul cumpărării unui apartament nou. Folosirea ei mi s-a părut bună pentru a solidifica lecţiile cu exemple concrete, reale.
+Deşi poate părea aşa, nu e intenţionat să fie "hate speech" la adresa vânzătorilor. E o întâmplare nefericită care reflectă foarte bine diversele capcane care pot apărea pe parcursul cumpărării unui apartament nou. Folosirea ei mi s-a părut bună pentru a solidifica lecţiile cu exemple concrete, reale.
 
-Sunt multe apartamente, agenţii şi agenţi, cei cu care am lucrat eu de la [Realpro][1] nu cred că sunt nici mai buni, nici mai slabi decât alţii. Ei sunt produsul cumpărătorilor poate prea optimişti şi naivi care cumpără ce li se dă, cum li se dă. Atât timp cât cineva va cumpăra, experinţe ca a mea vor fi comune şi text ca ăsta al meu o să mai tot curgă, alţii se vor trezi cu apartamente neconforme aşteptărilor. 
+Sunt multe apartamente, agenţii şi agenţi, cei cu care am lucrat eu de la [Realpro][1] nu cred că sunt nici mai buni, nici mai slabi decât alţii. Ei sunt produsul cumpărătorilor poate prea optimişti şi naivi care cumpără ce li se dă, cum li se dă. Atât timp cât cineva va cumpăra, experinţe ca a mea vor fi comune şi text ca ăsta al meu o să mai tot curgă, iar alţii se vor trezi cu apartamente neconforme aşteptărilor. 
 
 Eu m-am simţit responsabil să nu las întâmplarea asta să se stingă degeaba, poate va ajuta pe cineva într-o situaţie similară.
 
-## Update - Lecţia 8
+## Update - Lecţia 8 & BONUS
 
 ### Lecţia 8
 
